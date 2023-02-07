@@ -16,6 +16,7 @@ public class AutoRunner {
     //all auto sequences here
     private AutoSequence[] sequences = {
         new SamplePath(),
+        new CirclePath(),
         new EmptySequence()
     };
 
