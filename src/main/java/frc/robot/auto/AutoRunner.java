@@ -17,6 +17,7 @@ public class AutoRunner {
     private AutoSequence[] sequences = {
         new SamplePath(),
         new CirclePath(),
+        new YPath(),
         new EmptySequence()
     };
 
